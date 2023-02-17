@@ -1,0 +1,39 @@
+.main{
+    width: 100%;
+   padding: 20px;
+}
+.main div{
+padding: 20px;
+font-size: 20px;
+text-transform: capitalize;
+
+}
+ h3{
+/* color: green; */
+text-transform: capitalize;
+}
+h3 span{
+    color: green;
+}
+
+.dashboard-main{
+    text-align: center;
+   
+}
+.dashboard-li button{
+    /* background: transparent; */
+    border-style: none;
+    text-transform: capitalize;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    width: 200px;
+}
+.message{
+    padding: 50px;
+}
+.dashmessage{
+    padding: 20px;
+    text-transform: capitalize;
+    /* color: green; */
+}
